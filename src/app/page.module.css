@@ -1,0 +1,61 @@
+const styles = {
+  .container: {
+    fontFamily: "'Arial', sans-serif",
+    maxWidth: "600px",
+    margin: "0 auto",
+    padding: "20px",
+    backgroundColor: "#f9f9f9",
+    borderRadius: "10px",
+    boxShadow: "0 0 10px rgba(0, 0, 0, 0.1)",
+  },
+  .title: {
+    textAlign: "center",
+    color: "#333",
+  },
+  .form: {
+    marginTop: "20px",
+  },
+  inputGroup: {
+    marginBottom: "15px",
+  },
+  .label: {
+    display: "block",
+    marginBottom: "5px",
+    color: "#333",
+  },
+  .input: {
+    width: "100%",
+    padding: "8px",
+    fontSize: "16px",
+    borderRadius: "5px",
+    border: "1px solid #ccc",
+  },
+  .button: {
+    width: "100%",
+    padding: "10px",
+    fontSize: "16px",
+    backgroundColor: "#007BFF",
+    color: "#fff",
+    border: "none",
+    borderRadius: "5px",
+    cursor: "pointer",
+    marginTop: "10px",
+  },
+  buttonHover: {
+    backgroundColor: "#0056b3",
+  },
+  result: {
+    marginTop: "20px",
+    padding: "20px",
+    backgroundColor: "#e9ffe9",
+    borderRadius: "5px",
+    border: "1px solid #d4d4d4",
+  },
+  infoBox: {
+    marginTop: "30px",
+    padding: "20px",
+    backgroundColor: "#e9f7ff",
+    borderRadius: "5px",
+    border: "1px solid #d4d4d4",
+  },
+};
